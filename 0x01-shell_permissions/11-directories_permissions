@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod -rx a+X ./
+chmod -755 a+X ./
